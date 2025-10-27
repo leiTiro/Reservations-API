@@ -1,0 +1,10 @@
+booking_id,created_on,modified_on,guest_name,email,phone,hotel_branch,room_type,check_in,check_out,num_guests,payment_status
+1001,,,Sindy Blue,Sindy@example.com,+1 435-555-0123,Dash Hotel Chicago,Deluxe Room,2025-06-10,2025-06-14,2,Paid
+2001,,,Emma Johnson,emma.johnson@example.com,+1 312-555-0123,Dash Hotel Chicago,Deluxe Room,2025-06-10,2025-06-14,2,Unpaid
+2002,,,Michael Brown,mike.brown@domain.com,+1 646-555-9876,Dash Hotel New York,Standard Room,2025-06-15,2025-06-17,1,Unpaid
+2003,,,Ava Martinez,ava.martinez@mail.com,+1 213-555-4321,Dash Hotel Los Angeles,Executive Suite,2025-07-01,2025-07-04,2,Paid
+2004,,,James Lee,james.lee@zmail.com,+1 713-555-7689,Dash Hotel Houston,Family Room,2025-06-20,2025-06-25,4,Paid
+2005,,,Sophia Davis,sophia@davis.net,+1 602-555-3344,Dash Hotel Phoenix,Standard Room,2025-06-18,2025-06-20,1,Cancelled
+2006,2025-05-30,,James Bond,lesego@gmail.com,0716123800,Chicago,Family Room,2025-07-08,2025-07-15,5,Unpaid
+2008,2025-06-02,2025-06-02,Jameson,jame@gmail.com,0832765698,Dash Hotel Miami,Deluxe,2025-06-03,2025-06-05,2,Unpaid
+2009,2025-06-03,2025-06-03,Jeff Bond,jeff.t@gmail.com,0716123877,Dash Hotel Miami,Deluxe Room,2025-06-17,2025-06-26,4,Unpaid
